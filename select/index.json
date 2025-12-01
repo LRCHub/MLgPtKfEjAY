@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "I Can't See at All",
+  "base_artist": "Two Feet",
+  "createdAt": "2025-12-01T05:48:37.232905Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Can't See at All",
+      "artist": "Two Feet",
+      "has_synced": true,
+      "path": "select/01_I_Can't_See_at_All_Two_Feet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "10. I Can't See at All",
+      "artist": "Two Feet",
+      "has_synced": true,
+      "path": "select/02_10._I_Can't_See_at_All_Two_Feet.lrc"
+    }
+  ]
+}
